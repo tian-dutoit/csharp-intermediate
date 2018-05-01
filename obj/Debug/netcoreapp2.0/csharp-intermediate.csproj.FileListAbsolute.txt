@@ -1,0 +1,10 @@
+/home/asus/Documents/Workspace/csharp-intermediate/bin/Debug/netcoreapp2.0/csharp-intermediate.deps.json
+/home/asus/Documents/Workspace/csharp-intermediate/bin/Debug/netcoreapp2.0/csharp-intermediate.runtimeconfig.json
+/home/asus/Documents/Workspace/csharp-intermediate/bin/Debug/netcoreapp2.0/csharp-intermediate.runtimeconfig.dev.json
+/home/asus/Documents/Workspace/csharp-intermediate/bin/Debug/netcoreapp2.0/csharp-intermediate.dll
+/home/asus/Documents/Workspace/csharp-intermediate/bin/Debug/netcoreapp2.0/csharp-intermediate.pdb
+/home/asus/Documents/Workspace/csharp-intermediate/obj/Debug/netcoreapp2.0/csharp-intermediate.csproj.CoreCompileInputs.cache
+/home/asus/Documents/Workspace/csharp-intermediate/obj/Debug/netcoreapp2.0/csharp-intermediate.AssemblyInfoInputs.cache
+/home/asus/Documents/Workspace/csharp-intermediate/obj/Debug/netcoreapp2.0/csharp-intermediate.AssemblyInfo.cs
+/home/asus/Documents/Workspace/csharp-intermediate/obj/Debug/netcoreapp2.0/csharp-intermediate.dll
+/home/asus/Documents/Workspace/csharp-intermediate/obj/Debug/netcoreapp2.0/csharp-intermediate.pdb
