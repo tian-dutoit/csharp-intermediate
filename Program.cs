@@ -16,8 +16,11 @@ namespace csharp_intermediate
     {
         static void Main(string[] args)
         {
-            var calculator = new Calculator();
-            System.Console.WriteLine(calculator.Add(1, 2));
+            // var calculator = new Calculator();
+            // System.Console.WriteLine(calculator.Add(1, 2));
+            var person = new Person();
+            person.setBirthDate(new DateTime(1982, 1, 1));
+            System.Console.WriteLine(person.getBirthDate());
         }
     }
 }
