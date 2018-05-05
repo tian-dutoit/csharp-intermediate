@@ -19,6 +19,9 @@ namespace csharp_intermediate
             // var calculator = new Calculator();
             // System.Console.WriteLine(calculator.Add(1, 2));
             var person = new Person();
+            var cookie = new HttpCookie();
+            cookie["name"] = "Tidu";
+            System.Console.WriteLine(cookie["name"]);
             person.setBirthDate(new DateTime(1982, 1, 1));
             System.Console.WriteLine(person.getBirthDate());
         }
